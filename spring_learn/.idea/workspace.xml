@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1929e3a0-b2f2-425f-8e34-b0baa2147f19" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/../readme.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1frA7QBMIuuK04edCDvpomsynTc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.chain.mvcframework.annotation.v3.servlet" />
+      <recent name="com.chain.mvcframework.annotation" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="MyAnnoTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyAnnoTest1" />
+      <module name="spring_learn" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="spring_learn" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.MyAnnoTest1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1929e3a0-b2f2-425f-8e34-b0baa2147f19" name="Default Changelist" comment="" />
+      <created>1596965669768</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596965669768</updated>
+      <workItem from="1596965672577" duration="1717000" />
+      <workItem from="1597025056861" duration="3297000" />
+      <workItem from="1597203192249" duration="2289000" />
+      <workItem from="1597398890164" duration="1920000" />
+      <workItem from="1597557716199" duration="13932000" />
+    </task>
+    <task id="LOCAL-00001" summary="基础搭建">
+      <created>1597559618729</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1597559618729</updated>
+    </task>
+    <task id="LOCAL-00002" summary="springMVC Version 1.0">
+      <created>1597565031891</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1597565031891</updated>
+    </task>
+    <task id="LOCAL-00003" summary="springMVC Version 2.0 代码模块化">
+      <created>1597570745624</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1597570745624</updated>
+    </task>
+    <task id="LOCAL-00004" summary="springMVC Version 3.0 增加handler">
+      <created>1597574641185</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1597574641185</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="基础搭建" />
+    <MESSAGE value="springMVC Version 1.0" />
+    <MESSAGE value="springMVC Version 2.0 代码模块化" />
+    <MESSAGE value="springMVC Version 3.0 增加handler" />
+    <option name="LAST_COMMIT_MESSAGE" value="springMVC Version 3.0 增加handler" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2102" y="0" key="#Project_Structure" timestamp="1597562028276">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="121" y="0" key="#Project_Structure/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1597216997700" />
+    <state x="2102" y="0" key="#Project_Structure/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597562028276" />
+    <state x="2589" y="38" key="#com.intellij.ide.util.MemberChooser" timestamp="1597573856343">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="446" y="25" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1596975649785" />
+    <state x="2589" y="38" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597573856343" />
+    <state x="2480" y="115" key="CommitChangelistDialog2" timestamp="1597574640418">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2480" y="115" key="CommitChangelistDialog2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597574640418" />
+    <state x="2360" y="230" key="DiffContextDialog" timestamp="1597565004488">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2360" y="230" key="DiffContextDialog/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597565004488" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom" timestamp="1597574459087">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1597048884723" />
+    <state width="1877" height="281" key="GridCell.Tab.0.bottom/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597574459087" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center" timestamp="1597574459086">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1597048884723" />
+    <state width="1877" height="281" key="GridCell.Tab.0.center/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597574459086" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left" timestamp="1597574459086">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1597048884723" />
+    <state width="1877" height="281" key="GridCell.Tab.0.left/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597574459086" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right" timestamp="1597574459086">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1237" height="163" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1597048884723" />
+    <state width="1877" height="281" key="GridCell.Tab.0.right/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597574459086" />
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2" timestamp="1597574645065">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="253" key="Vcs.Push.Dialog.v2/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597574645065" />
+    <state x="423" y="86" key="refactoring.ChangeSignatureDialog" timestamp="1596975615930">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="423" y="86" key="refactoring.ChangeSignatureDialog/0.0.1280.680/1920.0.1920.1040@0.0.1280.680" timestamp="1596975615930" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1597569176263">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1280.680/1920.0.1920.1040@1920.0.1920.1040" timestamp="1597569176263" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/chain/mvcframework/annotation/v2/servlet/CHDispatcherServlet.java</url>
+          <line>244</line>
+          <properties class="com.chain.mvcframework.annotation.v2.servlet.CHDispatcherServlet" method="doScanner">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
