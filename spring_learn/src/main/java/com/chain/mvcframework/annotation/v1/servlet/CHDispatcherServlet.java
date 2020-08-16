@@ -92,6 +92,8 @@ public class CHDispatcherServlet  extends HttpServlet {
 
                 //加入容器中
                 if (clazz.isAnnotationPresent(CHController.class)){
+
+                    //处理controller与映射url
                     mapping.put(className,clazz.newInstance());
                     String baseUrl="";
                     if (clazz.isAnnotationPresent(CHRequestMapping.class)){
@@ -127,6 +129,7 @@ public class CHDispatcherServlet  extends HttpServlet {
             }
 
             //对容器中的值进行处理
+            //处理autowired
             for (Object o:mapping.values()) {
                 if (o==null){
                     continue;
