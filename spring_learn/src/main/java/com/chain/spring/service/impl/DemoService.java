@@ -1,7 +1,8 @@
 package com.chain.spring.service.impl;
 
 import com.chain.mvcframework.annotation.CHService;
-import com.chain.spring.IDemoService;
+
+import com.chain.spring.service.IDemoService;
 
 /**
  * @author chenqian091
